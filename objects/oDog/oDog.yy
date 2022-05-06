@@ -1,5 +1,8 @@
 {
-  "spriteId": null,
+  "spriteId": {
+    "name": "sDog",
+    "path": "sprites/sDog/sDog.yy",
+  },
   "solid": false,
   "visible": true,
   "spriteMaskId": null,
