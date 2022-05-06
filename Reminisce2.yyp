@@ -1,14 +1,16 @@
 {
   "resources": [
     {"id":{"name":"sPlayerWalk","path":"sprites/sPlayerWalk/sPlayerWalk.yy",},"order":0,},
+    {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":2,},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},"order":1,},
     {"id":{"name":"SPlayerIdle","path":"sprites/SPlayerIdle/SPlayerIdle.yy",},"order":5,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
+    {"id":{"name":"oEnemBound","path":"objects/oEnemBound/oEnemBound.yy",},"order":3,},
     {"id":{"name":"sBox","path":"sprites/sBox/sBox.yy",},"order":12,},
     {"id":{"name":"sTavern","path":"sprites/sTavern/sTavern.yy",},"order":3,},
     {"id":{"name":"oSolid","path":"objects/oSolid/oSolid.yy",},"order":1,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
-    {"id":{"name":"oDog","path":"objects/oDog/oDog.yy",},"order":2,},
+    {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":14,},
     {"id":{"name":"sDog","path":"sprites/sDog/sDog.yy",},"order":9,},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},"order":6,},
     {"id":{"name":"sLadder","path":"sprites/sLadder/sLadder.yy",},"order":10,},

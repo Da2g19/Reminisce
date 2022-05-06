@@ -1,9 +1,9 @@
 {
   "spriteId": {
-    "name": "sDog",
-    "path": "sprites/sDog/sDog.yy",
+    "name": "Sprite10",
+    "path": "sprites/Sprite10/Sprite10.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": true,
   "spriteMaskId": null,
   "persistent": false,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oDog",
+  "name": "oEnemBound",
   "tags": [],
   "resourceType": "GMObject",
 }
