@@ -1,10 +1,10 @@
 {
   "spriteId": {
-    "name": "sFloor",
-    "path": "sprites/sFloor/sFloor.yy",
+    "name": "sDog",
+    "path": "sprites/sDog/sDog.yy",
   },
   "solid": false,
-  "visible": false,
+  "visible": true,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
@@ -28,7 +28,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSolid",
+  "name": "oDog",
   "tags": [],
   "resourceType": "GMObject",
 }
