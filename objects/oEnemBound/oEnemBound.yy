@@ -4,7 +4,7 @@
     "path": "sprites/Sprite10/Sprite10.yy",
   },
   "solid": true,
-  "visible": true,
+  "visible": false,
   "spriteMaskId": null,
   "persistent": false,
   "parentObjectId": null,
