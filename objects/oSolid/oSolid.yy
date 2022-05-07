@@ -3,7 +3,7 @@
     "name": "sFloor",
     "path": "sprites/sFloor/sFloor.yy",
   },
-  "solid": false,
+  "solid": true,
   "visible": false,
   "spriteMaskId": null,
   "persistent": false,
