@@ -1,6 +1,6 @@
 {
   "resources": [
-    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
+    {"id":{"name":"Area2","path":"rooms/Area2/Area2.yy",},"order":1,},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":16,},
     {"id":{"name":"sPlayerWalk","path":"sprites/sPlayerWalk/sPlayerWalk.yy",},"order":0,},
     {"id":{"name":"oRat","path":"objects/oRat/oRat.yy",},"order":6,},
@@ -31,7 +31,7 @@
     {"id":{"name":"sLamp","path":"sprites/sLamp/sLamp.yy",},"order":11,},
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},"order":8,},
     {"id":{"name":"SPlayerClimb","path":"sprites/SPlayerClimb/SPlayerClimb.yy",},"order":15,},
-    {"id":{"name":"Room1","path":"rooms/Room1/Room1.yy",},"order":0,},
+    {"id":{"name":"Area1","path":"rooms/Area1/Area1.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Linux","path":"options/linux/options_linux.yy",},
@@ -47,8 +47,8 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
-    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
+    {"roomId":{"name":"Area1","path":"rooms/Area1/Area1.yy",},},
+    {"roomId":{"name":"Area2","path":"rooms/Area2/Area2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
