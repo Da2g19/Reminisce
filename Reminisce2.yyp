@@ -6,6 +6,7 @@
     {"id":{"name":"oRat","path":"objects/oRat/oRat.yy",},"order":6,},
     {"id":{"name":"sBarrel","path":"sprites/sBarrel/sBarrel.yy",},"order":18,},
     {"id":{"name":"onote","path":"objects/onote/onote.yy",},"order":7,},
+    {"id":{"name":"sBeer","path":"sprites/sBeer/sBeer.yy",},"order":23,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":2,},
     {"id":{"name":"Area3","path":"rooms/Area3/Area3.yy",},"order":2,},
     {"id":{"name":"sLantern","path":"sprites/sLantern/sLantern.yy",},"order":19,},
