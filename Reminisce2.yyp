@@ -1,10 +1,12 @@
 {
   "resources": [
+    {"id":{"name":"Room2","path":"rooms/Room2/Room2.yy",},"order":1,},
     {"id":{"name":"Sprite16","path":"sprites/Sprite16/Sprite16.yy",},"order":16,},
     {"id":{"name":"sPlayerWalk","path":"sprites/sPlayerWalk/sPlayerWalk.yy",},"order":0,},
+    {"id":{"name":"oRat","path":"objects/oRat/oRat.yy",},"order":6,},
     {"id":{"name":"sBarrel","path":"sprites/sBarrel/sBarrel.yy",},"order":18,},
+    {"id":{"name":"onote","path":"objects/onote/onote.yy",},"order":7,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":2,},
-    {"id":{"name":"tRock","path":"tilesets/tRock/tRock.yy",},"order":1,},
     {"id":{"name":"sLantern","path":"sprites/sLantern/sLantern.yy",},"order":19,},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},"order":1,},
     {"id":{"name":"SPlayerIdle","path":"sprites/SPlayerIdle/SPlayerIdle.yy",},"order":5,},
@@ -46,6 +48,7 @@
   },
   "RoomOrderNodes": [
     {"roomId":{"name":"Room1","path":"rooms/Room1/Room1.yy",},},
+    {"roomId":{"name":"Room2","path":"rooms/Room2/Room2.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
