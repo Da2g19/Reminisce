@@ -7,6 +7,7 @@
     {"id":{"name":"sBarrel","path":"sprites/sBarrel/sBarrel.yy",},"order":18,},
     {"id":{"name":"onote","path":"objects/onote/onote.yy",},"order":7,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":2,},
+    {"id":{"name":"Area3","path":"rooms/Area3/Area3.yy",},"order":2,},
     {"id":{"name":"sLantern","path":"sprites/sLantern/sLantern.yy",},"order":19,},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},"order":1,},
     {"id":{"name":"SPlayerIdle","path":"sprites/SPlayerIdle/SPlayerIdle.yy",},"order":5,},
@@ -23,6 +24,7 @@
     {"id":{"name":"sLetter","path":"sprites/sLetter/sLetter.yy",},"order":17,},
     {"id":{"name":"Sprite5","path":"sprites/Sprite5/Sprite5.yy",},"order":4,},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":14,},
+    {"id":{"name":"oLetter2","path":"objects/oLetter2/oLetter2.yy",},"order":8,},
     {"id":{"name":"sDog","path":"sprites/sDog/sDog.yy",},"order":9,},
     {"id":{"name":"sGrass","path":"sprites/sGrass/sGrass.yy",},"order":6,},
     {"id":{"name":"sLadder","path":"sprites/sLadder/sLadder.yy",},"order":10,},
@@ -30,6 +32,7 @@
     {"id":{"name":"sDirt","path":"sprites/sDirt/sDirt.yy",},"order":7,},
     {"id":{"name":"sLamp","path":"sprites/sLamp/sLamp.yy",},"order":11,},
     {"id":{"name":"sRock","path":"sprites/sRock/sRock.yy",},"order":8,},
+    {"id":{"name":"sWood","path":"sprites/sWood/sWood.yy",},"order":22,},
     {"id":{"name":"SPlayerClimb","path":"sprites/SPlayerClimb/SPlayerClimb.yy",},"order":15,},
     {"id":{"name":"Area1","path":"rooms/Area1/Area1.yy",},"order":0,},
   ],
@@ -49,6 +52,7 @@
   "RoomOrderNodes": [
     {"roomId":{"name":"Area1","path":"rooms/Area1/Area1.yy",},},
     {"roomId":{"name":"Area2","path":"rooms/Area2/Area2.yy",},},
+    {"roomId":{"name":"Area3","path":"rooms/Area3/Area3.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
