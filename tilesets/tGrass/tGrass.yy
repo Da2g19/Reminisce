@@ -1,9 +1,6 @@
 {
   "name": "tGrass",
-  "spriteId": {
-    "name": "sGrass2",
-    "path": "sprites/sGrass2/sGrass2.yy",
-  },
+  "spriteId": null,
   "tileWidth": 16,
   "tileHeight": 16,
   "tilexoff": 0,
