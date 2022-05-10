@@ -12,6 +12,7 @@
     {"id":{"name":"oLetter3","path":"objects/oLetter3/oLetter3.yy",},"order":9,},
     {"id":{"name":"sLantern","path":"sprites/sLantern/sLantern.yy",},"order":19,},
     {"id":{"name":"sFloor","path":"sprites/sFloor/sFloor.yy",},"order":1,},
+    {"id":{"name":"sBread","path":"sprites/sBread/sBread.yy",},"order":25,},
     {"id":{"name":"SPlayerIdle","path":"sprites/SPlayerIdle/SPlayerIdle.yy",},"order":5,},
     {"id":{"name":"oCommands","path":"objects/oCommands/oCommands.yy",},"order":4,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
