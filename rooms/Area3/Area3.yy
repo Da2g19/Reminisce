@@ -29,6 +29,7 @@
     {"instances":[
         {"properties":[],"isDnd":false,"objectId":{"name":"oCommands","path":"objects/oCommands/oCommands.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":256.0,"y":64.0,"resourceVersion":"1.0","name":"inst_5D5ADC5F","tags":[],"resourceType":"GMRInstance",},
         {"properties":[],"isDnd":false,"objectId":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":-0.964912236,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":312.982452,"y":416.0,"resourceVersion":"1.0","name":"inst_4CEF21AA","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oLetter3","path":"objects/oLetter3/oLetter3.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1344.0,"y":480.0,"resourceVersion":"1.0","name":"inst_26AEFB07","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":100,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"sLadder","path":"sprites/sLadder/sLadder.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":2.52380943,"scaleY":4.55555534,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":591.0,"y":611.0,"resourceVersion":"1.0","name":"graphic_3D9A4958","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -222,6 +223,7 @@
     {"name":"inst_2ADFB912","path":"rooms/Area3/Area3.yy",},
     {"name":"inst_F79416C","path":"rooms/Area3/Area3.yy",},
     {"name":"inst_5E0B4A11","path":"rooms/Area3/Area3.yy",},
+    {"name":"inst_26AEFB07","path":"rooms/Area3/Area3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
