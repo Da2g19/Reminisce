@@ -9,7 +9,6 @@
     {"id":{"name":"sHuman","path":"sprites/sHuman/sHuman.yy",},"order":26,},
     {"id":{"name":"sBarrel","path":"sprites/sBarrel/sBarrel.yy",},"order":18,},
     {"id":{"name":"onote","path":"objects/onote/onote.yy",},"order":7,},
-    {"id":{"name":"sStone","path":"sprites/sStone/sStone.yy",},"order":27,},
     {"id":{"name":"sBeer","path":"sprites/sBeer/sBeer.yy",},"order":23,},
     {"id":{"name":"oEnemy","path":"objects/oEnemy/oEnemy.yy",},"order":2,},
     {"id":{"name":"Area3","path":"rooms/Area3/Area3.yy",},"order":2,},
