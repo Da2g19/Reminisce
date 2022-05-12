@@ -18,6 +18,7 @@
     {"id":{"name":"sBread","path":"sprites/sBread/sBread.yy",},"order":25,},
     {"id":{"name":"ohidebehind","path":"objects/ohidebehind/ohidebehind.yy",},"order":12,},
     {"id":{"name":"sBakery","path":"sprites/sBakery/sBakery.yy",},"order":28,},
+    {"id":{"name":"sOven","path":"sprites/sOven/sOven.yy",},"order":31,},
     {"id":{"name":"oBread","path":"objects/oBread/oBread.yy",},"order":14,},
     {"id":{"name":"SPlayerIdle","path":"sprites/SPlayerIdle/SPlayerIdle.yy",},"order":5,},
     {"id":{"name":"oCommands","path":"objects/oCommands/oCommands.yy",},"order":4,},
@@ -66,11 +67,11 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Area4","path":"rooms/Area4/Area4.yy",},},
-    {"roomId":{"name":"Area5","path":"rooms/Area5/Area5.yy",},},
+    {"roomId":{"name":"Area1","path":"rooms/Area1/Area1.yy",},},
     {"roomId":{"name":"Area2","path":"rooms/Area2/Area2.yy",},},
     {"roomId":{"name":"Area3","path":"rooms/Area3/Area3.yy",},},
-    {"roomId":{"name":"Area1","path":"rooms/Area1/Area1.yy",},},
+    {"roomId":{"name":"Area4","path":"rooms/Area4/Area4.yy",},},
+    {"roomId":{"name":"Area5","path":"rooms/Area5/Area5.yy",},},
   ],
   "Folders": [
     {"folderPath":"folders/Sprites.yy","order":1,"resourceVersion":"1.0","name":"Sprites","tags":[],"resourceType":"GMFolder",},
