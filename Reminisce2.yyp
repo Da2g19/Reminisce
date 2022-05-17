@@ -25,6 +25,7 @@
     {"id":{"name":"sBowl","path":"sprites/sBowl/sBowl.yy",},"order":30,},
     {"id":{"name":"oPlayer","path":"objects/oPlayer/oPlayer.yy",},"order":0,},
     {"id":{"name":"oEnemBound","path":"objects/oEnemBound/oEnemBound.yy",},"order":3,},
+    {"id":{"name":"oHumantoRat","path":"objects/oHumantoRat/oHumantoRat.yy",},"order":17,},
     {"id":{"name":"oLetter4","path":"objects/oLetter4/oLetter4.yy",},"order":10,},
     {"id":{"name":"sBox","path":"sprites/sBox/sBox.yy",},"order":12,},
     {"id":{"name":"Area4","path":"rooms/Area4/Area4.yy",},"order":3,},
