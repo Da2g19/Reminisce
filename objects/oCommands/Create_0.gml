@@ -1,0 +1,1 @@
+global.goroom = 1;
