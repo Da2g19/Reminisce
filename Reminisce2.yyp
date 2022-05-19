@@ -62,6 +62,7 @@
     {"id":{"name":"sWood","path":"sprites/sWood/sWood.yy",},"order":22,},
     {"id":{"name":"sSkyCut","path":"sprites/sSkyCut/sSkyCut.yy",},"order":35,},
     {"id":{"name":"SPlayerClimb","path":"sprites/SPlayerClimb/SPlayerClimb.yy",},"order":15,},
+    {"id":{"name":"sLetterGone","path":"sprites/sLetterGone/sLetterGone.yy",},"order":37,},
     {"id":{"name":"Area1","path":"rooms/Area1/Area1.yy",},"order":0,},
   ],
   "Options": [
