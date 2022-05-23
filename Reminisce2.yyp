@@ -36,6 +36,7 @@
     {"id":{"name":"oLetter4","path":"objects/oLetter4/oLetter4.yy",},"order":10,},
     {"id":{"name":"sBox","path":"sprites/sBox/sBox.yy",},"order":12,},
     {"id":{"name":"Area4","path":"rooms/Area4/Area4.yy",},"order":3,},
+    {"id":{"name":"sChurch","path":"sprites/sChurch/sChurch.yy",},"order":38,},
     {"id":{"name":"sTavern","path":"sprites/sTavern/sTavern.yy",},"order":3,},
     {"id":{"name":"oLadder","path":"objects/oLadder/oLadder.yy",},"order":5,},
     {"id":{"name":"Area5","path":"rooms/Area5/Area5.yy",},"order":4,},
