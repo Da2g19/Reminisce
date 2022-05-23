@@ -8,14 +8,14 @@
   "collisionTolerance": 0,
   "swfPrecision": 2.525,
   "bbox_left": 0,
-  "bbox_right": 123,
+  "bbox_right": 31,
   "bbox_top": 0,
-  "bbox_bottom": 283,
+  "bbox_bottom": 31,
   "HTile": false,
   "VTile": false,
   "For3D": false,
-  "width": 124,
-  "height": 284,
+  "width": 32,
+  "height": 32,
   "textureGroupId": {
     "name": "Default",
     "path": "texturegroups/Default",
@@ -24,12 +24,12 @@
   "gridX": 0,
   "gridY": 0,
   "frames": [
-    {"compositeImage":{"FrameId":{"name":"b0f022b1-4b1e-4e8d-8878-f3f8fe6c1017","path":"sprites/sChurch/sChurch.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
-        {"FrameId":{"name":"b0f022b1-4b1e-4e8d-8878-f3f8fe6c1017","path":"sprites/sChurch/sChurch.yy",},"LayerId":{"name":"65147da0-8233-4098-b262-53115ffc950d","path":"sprites/sChurch/sChurch.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
-      ],"parent":{"name":"sChurch","path":"sprites/sChurch/sChurch.yy",},"resourceVersion":"1.0","name":"b0f022b1-4b1e-4e8d-8878-f3f8fe6c1017","tags":[],"resourceType":"GMSpriteFrame",},
+    {"compositeImage":{"FrameId":{"name":"0b44ac5c-3e98-477d-969a-11fe31fdf9f2","path":"sprites/sRocku/sRocku.yy",},"LayerId":null,"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},"images":[
+        {"FrameId":{"name":"0b44ac5c-3e98-477d-969a-11fe31fdf9f2","path":"sprites/sRocku/sRocku.yy",},"LayerId":{"name":"d2bc8bf6-3bef-4524-acca-cc8a45d94b64","path":"sprites/sRocku/sRocku.yy",},"resourceVersion":"1.0","name":"","tags":[],"resourceType":"GMSpriteBitmap",},
+      ],"parent":{"name":"sRocku","path":"sprites/sRocku/sRocku.yy",},"resourceVersion":"1.0","name":"0b44ac5c-3e98-477d-969a-11fe31fdf9f2","tags":[],"resourceType":"GMSpriteFrame",},
   ],
   "sequence": {
-    "spriteId": {"name":"sChurch","path":"sprites/sChurch/sChurch.yy",},
+    "spriteId": {"name":"sRocku","path":"sprites/sRocku/sRocku.yy",},
     "timeUnits": 1,
     "playback": 1,
     "playbackSpeed": 30.0,
@@ -41,7 +41,7 @@
     "moments": {"Keyframes":[],"resourceVersion":"1.0","resourceType":"KeyframeStore<MomentsEventKeyframe>",},
     "tracks": [
       {"name":"frames","spriteId":null,"keyframes":{"Keyframes":[
-            {"id":"4333ea55-4c55-4462-b9e7-f9a34456cd73","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"b0f022b1-4b1e-4e8d-8878-f3f8fe6c1017","path":"sprites/sChurch/sChurch.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
+            {"id":"0eae9e95-75cd-43fb-b6f4-dd1a7f780080","Key":0.0,"Length":1.0,"Stretch":false,"Disabled":false,"IsCreationKey":false,"Channels":{"0":{"Id":{"name":"0b44ac5c-3e98-477d-969a-11fe31fdf9f2","path":"sprites/sRocku/sRocku.yy",},"resourceVersion":"1.0","resourceType":"SpriteFrameKeyframe",},},"resourceVersion":"1.0","resourceType":"Keyframe<SpriteFrameKeyframe>",},
           ],"resourceVersion":"1.0","resourceType":"KeyframeStore<SpriteFrameKeyframe>",},"trackColour":0,"inheritsTrackColour":true,"builtinName":0,"traits":0,"interpolation":1,"tracks":[],"events":[],"modifiers":[],"isCreationTrack":false,"resourceVersion":"1.0","tags":[],"resourceType":"GMSpriteFramesTrack",},
     ],
     "visibleRange": null,
@@ -54,18 +54,18 @@
     "backdropHeight": 768,
     "backdropXOffset": 0.0,
     "backdropYOffset": 0.0,
-    "xorigin": 62,
-    "yorigin": 142,
+    "xorigin": 16,
+    "yorigin": 16,
     "eventToFunction": {},
     "eventStubScript": null,
-    "parent": {"name":"sChurch","path":"sprites/sChurch/sChurch.yy",},
+    "parent": {"name":"sRocku","path":"sprites/sRocku/sRocku.yy",},
     "resourceVersion": "1.3",
-    "name": "sChurch",
+    "name": "sRocku",
     "tags": [],
     "resourceType": "GMSequence",
   },
   "layers": [
-    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"65147da0-8233-4098-b262-53115ffc950d","tags":[],"resourceType":"GMImageLayer",},
+    {"visible":true,"isLocked":false,"blendMode":0,"opacity":100.0,"displayName":"default","resourceVersion":"1.0","name":"d2bc8bf6-3bef-4524-acca-cc8a45d94b64","tags":[],"resourceType":"GMImageLayer",},
   ],
   "nineSlice": null,
   "parent": {
@@ -73,7 +73,7 @@
     "path": "folders/Sprites.yy",
   },
   "resourceVersion": "1.0",
-  "name": "sChurch",
+  "name": "sRocku",
   "tags": [],
   "resourceType": "GMSprite",
 }

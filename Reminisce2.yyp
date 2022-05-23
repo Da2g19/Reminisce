@@ -48,6 +48,7 @@
     {"id":{"name":"sDarksky","path":"sprites/sDarksky/sDarksky.yy",},"order":4,},
     {"id":{"name":"Sprite10","path":"sprites/Sprite10/Sprite10.yy",},"order":14,},
     {"id":{"name":"oHuman","path":"objects/oHuman/oHuman.yy",},"order":11,},
+    {"id":{"name":"sRocku","path":"sprites/sRocku/sRocku.yy",},"order":39,},
     {"id":{"name":"oLetter2","path":"objects/oLetter2/oLetter2.yy",},"order":8,},
     {"id":{"name":"sDog","path":"sprites/sDog/sDog.yy",},"order":9,},
     {"id":{"name":"sGrass224","path":"sprites/sGrass224/sGrass224.yy",},"order":24,},
