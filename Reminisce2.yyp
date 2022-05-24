@@ -90,13 +90,13 @@
     "children": [],
   },
   "RoomOrderNodes": [
-    {"roomId":{"name":"Area5","path":"rooms/Area5/Area5.yy",},},
     {"roomId":{"name":"Title","path":"rooms/Title/Title.yy",},},
     {"roomId":{"name":"Cutscene1","path":"rooms/Cutscene1/Cutscene1.yy",},},
     {"roomId":{"name":"Area1","path":"rooms/Area1/Area1.yy",},},
     {"roomId":{"name":"Area2","path":"rooms/Area2/Area2.yy",},},
     {"roomId":{"name":"Area3","path":"rooms/Area3/Area3.yy",},},
     {"roomId":{"name":"Area4","path":"rooms/Area4/Area4.yy",},},
+    {"roomId":{"name":"Area5","path":"rooms/Area5/Area5.yy",},},
     {"roomId":{"name":"Cutscene5","path":"rooms/Cutscene5/Cutscene5.yy",},},
   ],
   "Folders": [

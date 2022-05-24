@@ -1,6 +1,6 @@
-/// @DnDAction : YoYo Games.Rooms.Go_To_Room
+/// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
-/// @DnDHash : 6941A66F
-/// @DnDArgument : "room" "Area5"
-/// @DnDSaveInfo : "room" "Area5"
-room_goto(Area5);
+/// @DnDHash : 36D97B06
+/// @DnDArgument : "expr" "true"
+/// @DnDArgument : "var" "rathit"
+rathit = true;
