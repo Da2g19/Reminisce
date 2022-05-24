@@ -30,7 +30,7 @@
     "path": "folders/Objects.yy",
   },
   "resourceVersion": "1.0",
-  "name": "onote",
+  "name": "oLetter5",
   "tags": [],
   "resourceType": "GMObject",
 }
