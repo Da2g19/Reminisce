@@ -22,7 +22,7 @@
   "creationCodeFile": "",
   "inheritCode": false,
   "instanceCreationOrder": [
-    {"name":"inst_2ECD3F6E","path":"rooms/Cutscene1/Cutscene1.yy",},
+    {"name":"inst_2ECD3F6E","path":"rooms/Cutscene3/Cutscene3.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
@@ -50,7 +50,7 @@
     "path": "folders/Rooms.yy",
   },
   "resourceVersion": "1.0",
-  "name": "Cutscene1",
+  "name": "Cutscene3",
   "tags": [],
   "resourceType": "GMRoom",
 }

@@ -1,10 +1,9 @@
 /// @DnDAction : YoYo Games.Rooms.Go_To_Room
 /// @DnDVersion : 1
 /// @DnDHash : 688BEDFC
-/// @DnDDisabled : 1
-/// @DnDArgument : "room" "Area3"
-/// @DnDSaveInfo : "room" "Area3"
-
+/// @DnDArgument : "room" "Cutscene2"
+/// @DnDSaveInfo : "room" "Cutscene2"
+room_goto(Cutscene2);
 
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1

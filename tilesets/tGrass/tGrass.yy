@@ -1,5 +1,4 @@
 {
-  "name": "tGrass",
   "spriteId": null,
   "tileWidth": 16,
   "tileHeight": 16,
@@ -38,6 +37,7 @@
     "path": "folders/Tile Sets.yy",
   },
   "resourceVersion": "1.0",
+  "name": "tGrass",
   "tags": [],
   "resourceType": "GMTileSet",
 }
