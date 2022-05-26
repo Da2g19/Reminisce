@@ -34,7 +34,7 @@
         {"spriteId":{"name":"sWood","path":"sprites/sWood/sWood.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":62.5000038,"scaleY":5.1875,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1000.00006,"y":525.0,"resourceVersion":"1.0","name":"graphic_7E4F1E63","tags":[],"resourceType":"GMRSpriteGraphic",},
       ],"visible":true,"depth":200,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Assets_1","tags":[],"resourceType":"GMRAssetLayer",},
     {"instances":[
-        {"properties":[],"isDnd":false,"objectId":{"name":"oHuman","path":"objects/oHuman/oHuman.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":0.538461566,"scaleY":0.8076923,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1248.0,"y":416.0,"resourceVersion":"1.0","name":"inst_19930325","tags":[],"resourceType":"GMRInstance",},
+        {"properties":[],"isDnd":false,"objectId":{"name":"oBarEnem","path":"objects/oBarEnem/oBarEnem.yy",},"inheritCode":false,"hasCreationCode":false,"colour":4294967295,"rotation":0.0,"scaleX":1.0,"scaleY":1.0,"imageIndex":0,"imageSpeed":1.0,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":1376.0,"y":352.0,"resourceVersion":"1.0","name":"inst_4CA7B0F","tags":[],"resourceType":"GMRInstance",},
       ],"visible":true,"depth":300,"userdefinedDepth":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"gridX":32,"gridY":32,"layers":[],"hierarchyFrozen":false,"resourceVersion":"1.0","name":"Instances_1","tags":[],"resourceType":"GMRInstanceLayer",},
     {"assets":[
         {"spriteId":{"name":"sOven","path":"sprites/sOven/sOven.yy",},"headPosition":0.0,"rotation":0.0,"scaleX":8.679999,"scaleY":8.384616,"animationSpeed":1.0,"colour":4294967295,"inheritedItemId":null,"frozen":false,"ignore":false,"inheritItemSettings":false,"x":896.0,"y":256.0,"resourceVersion":"1.0","name":"graphic_198F746D","tags":[],"resourceType":"GMRSpriteGraphic",},
@@ -52,13 +52,13 @@
     {"name":"inst_6DAFFBC0","path":"rooms/Area4/Area4.yy",},
     {"name":"inst_55633D5D","path":"rooms/Area4/Area4.yy",},
     {"name":"inst_4ABADD52","path":"rooms/Area4/Area4.yy",},
-    {"name":"inst_19930325","path":"rooms/Area4/Area4.yy",},
     {"name":"inst_54215009","path":"rooms/Area4/Area4.yy",},
     {"name":"inst_564C1F81","path":"rooms/Area4/Area4.yy",},
     {"name":"inst_7909775","path":"rooms/Area4/Area4.yy",},
     {"name":"inst_5D9AAEF5","path":"rooms/Area4/Area4.yy",},
     {"name":"inst_1C3AF2CD","path":"rooms/Area4/Area4.yy",},
     {"name":"inst_3B63AB31","path":"rooms/Area4/Area4.yy",},
+    {"name":"inst_4CA7B0F","path":"rooms/Area4/Area4.yy",},
   ],
   "inheritCreationOrder": false,
   "sequenceId": null,
