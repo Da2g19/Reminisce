@@ -3,4 +3,3 @@
 /// @DnDHash : 359A6E95
 /// @DnDDisabled : 1
 /// @DnDArgument : "room" "Area2"
-/// @DnDSaveInfo : "room" "Area2"
